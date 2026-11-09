@@ -1,0 +1,8 @@
+{
+  "style": "numbers",
+  "accent": true,
+  "persistent": 7,
+  "wormLag": 0.7,
+  "effect": "comet",
+  "layoutGlyph": false
+}
